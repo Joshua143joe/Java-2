@@ -1,0 +1,15 @@
+.back{
+    width: 600px;
+    height: 100px;
+    background-color: green;
+    margin-top: 250px;
+    margin-left: 400px;
+}
+h1{
+    text-align: center;
+    padding-top: 35px;
+    color: whitesmoke;
+}
+body{
+    background: rgba(0,200,187,1)10%;
+}
